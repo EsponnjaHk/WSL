@@ -1,16 +1,18 @@
 # WSL
 Scanner muilt-thread.
 
-Dependencia
-requests
-
-Instalação
-pip install -r requirments.txt
-
-Usage  　
-
-Modo de uso:python WSL.py [URL] [ThreadNumbers] [Timeout]
-
-Exemplo:python WSL.py http://exemplo.com/ 2 5
-
+ _                                       
+|_t+.__________________......_  /;_      
+;________________/     :    \ t""o.\__   
+:---|------------------t-----^-`--'  /      por: 0xtx1
+ \__L___________________\____________\      twitter: @Gdatateam
+              ""-. o .--. \--'/  l  .-t+.   Tks:sql3t0, t1, c4pt41n, lordb, ghosyet
+                  \ (   l) ;""   : /     
+     _  _  _       l `--" o;      Y      
+ |_||_ |_|| \       """""";:  .-. :\     
+ | |:_ | |:_/             ::  '-'  ;\    
+  _  _    _  _  _  _       ;;      : ;   
+ | ||_l  | \|_ |_|| \      :: bug   ;|   
+ :_l|`,  :_/:_ | |:_/      ;'-------';   
+                           '"------""    
 
